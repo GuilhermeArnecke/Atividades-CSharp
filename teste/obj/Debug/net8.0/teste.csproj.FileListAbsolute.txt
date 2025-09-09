@@ -1,0 +1,14 @@
+/home/nexus/csharp/teste/bin/Debug/net8.0/teste
+/home/nexus/csharp/teste/bin/Debug/net8.0/teste.deps.json
+/home/nexus/csharp/teste/bin/Debug/net8.0/teste.runtimeconfig.json
+/home/nexus/csharp/teste/bin/Debug/net8.0/teste.dll
+/home/nexus/csharp/teste/bin/Debug/net8.0/teste.pdb
+/home/nexus/csharp/teste/obj/Debug/net8.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/nexus/csharp/teste/obj/Debug/net8.0/teste.AssemblyInfoInputs.cache
+/home/nexus/csharp/teste/obj/Debug/net8.0/teste.AssemblyInfo.cs
+/home/nexus/csharp/teste/obj/Debug/net8.0/teste.csproj.CoreCompileInputs.cache
+/home/nexus/csharp/teste/obj/Debug/net8.0/teste.dll
+/home/nexus/csharp/teste/obj/Debug/net8.0/refint/teste.dll
+/home/nexus/csharp/teste/obj/Debug/net8.0/teste.pdb
+/home/nexus/csharp/teste/obj/Debug/net8.0/teste.genruntimeconfig.cache
+/home/nexus/csharp/teste/obj/Debug/net8.0/ref/teste.dll
