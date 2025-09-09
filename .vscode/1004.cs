@@ -1,4 +1,4 @@
-﻿using System; 
+using System; 
 
 class URI {
 
@@ -8,9 +8,9 @@ class URI {
     int a = Convert.ToInt32(Console.ReadLine());
     int b = Convert.ToInt32(Console.ReadLine());
 
-    int soma = a + b;
+    int prod = a * b;
 
-    Console.WriteLine($"SOMA = {soma}");
+    Console.WriteLine($"PROD = {prod}");
 
     }
 

@@ -12,3 +12,4 @@
 /home/nexus/csharp/teste/obj/Debug/net8.0/teste.pdb
 /home/nexus/csharp/teste/obj/Debug/net8.0/teste.genruntimeconfig.cache
 /home/nexus/csharp/teste/obj/Debug/net8.0/ref/teste.dll
+/home/nexus/csharp/teste/obj/Debug/net8.0/teste.sourcelink.json
